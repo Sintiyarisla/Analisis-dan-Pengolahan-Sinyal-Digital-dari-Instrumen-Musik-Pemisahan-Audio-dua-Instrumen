@@ -1,2 +1,6 @@
 # Analisis-dan-Pengolahan-Sinyal-Digital-dari-Instrumen-Musik-Pemisahan-Audio-dua-Instrumen
-Pengolahan Sinyal Digital
+Proyek ini adalah suatu proyek yang bertujuan untuk menganalisis dan mengolah sinyal digital dari rekaman musik, terutama dalam upaya memisahkan suara instrumen tertentu dari campuran suara dalam rekaman. Di dalam rekaman musik, suara berbagai instrumen biasanya bergabung menjadi satu saluran audio, sehingga sulit untuk mengisolasi suara satu instrumen saja tanpa terganggu oleh suara instrumen lainnya.
+
+Untuk mengatasi hal ini, proyek ini akan mengembangkan metode dan teknik pemrosesan sinyal yang mampu memisahkan suara instrumen tertentu.Selain itu, proyek ini bertujuan untuk memudahkan para pemusik dalam mengulik dan menganalisis instrumen yang mereka mainkan. Dengan adanya pemisahan suara yang lebih jelas, musisi dapat lebih mudah memahami komposisi dan elemen-elemen musik dalam rekaman, yang dapat membantu mereka dalam proses belajar, latihan, dan pengembangan keterampilan musikal. Hal ini akan sangat berguna untuk pengembangan keterampilan musikal, terutama dalam konteks latihan mandiri, pengajaran, dan kolaborasi antar musisi.
+
+Oleh karena itu, proyek ini tidak hanya berfokus pada pemisahan sinyal secara teknis, tetapi juga pada penciptaan peluang baru bagi musisi untuk berinteraksi dengan musik dengan cara yang lebih mendalam dan edukatif.
